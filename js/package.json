@@ -1,0 +1,18 @@
+{
+  "name": "alert-testing-web-sample",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small Node.js web sample used for dependency management and CI checks.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node test/smoke.test.js"
+  },
+  "dependencies": {
+    "express": "4.18.2",
+    "lodash": "4.17.20",
+    "minimist": "0.0.8",
+    "handlebars": "4.7.6",
+    "serialize-javascript": "2.1.1"
+  }
+}
