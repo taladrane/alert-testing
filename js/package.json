@@ -13,6 +13,7 @@
     "lodash": "4.17.20",
     "minimist": "0.0.8",
     "handlebars": "4.7.6",
-    "serialize-javascript": "2.1.1"
+    "serialize-javascript": "2.1.1",
+    "flowise": "3.0.13"
   }
 }
